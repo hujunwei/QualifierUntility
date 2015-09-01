@@ -1,0 +1,968 @@
+PropertyGroup
+343
+.NET Services Manager
+2020 VLAN Management
+343
+A&O Global Operations
+A1
+AcademyLive
+ACDBI VLAN Management
+ACDBI VLAN Management (Ads-Paid-Search)
+ACO2L VLAN Management
+ADC-ACACore
+ADC-ACDMCore
+ADC-AdCore
+ADC-Admetrix
+ADC-BICore
+ADC-CACore
+ADC-Creative
+ADCDE VLAN Management
+ADCDE VLAN Management (Ads-Paid-Search)
+ADC-DECore
+ADCED VLAN Managemen
+ADCED VLAN Management (Ads-Paid-Search)
+ADC-Editorial
+adCenter
+adCenter VLAN Management
+ADC-JazzCore
+ADCJC VLAN Management
+ADCJC VLAN Management (Ads-Paid-Search)
+ADCKS VLAN Management
+ADCKS VLAN Management (Ads-Paids-Search)
+ADC-KSPCore
+ADC-NonProduction
+ADC-Omaha
+ADC-OpenWeb
+ADCOR VLAN Management
+ADCOR VLAN Management (Ads-Paid-Search)
+ADC-PubCore
+ADC-RelRevCore
+ADCXA VLAN Management
+ADCXA VLAN Management (Ads-Paid-Search)
+ADC-Xadcenter
+AdECN
+ADMET VLAN Management
+ADMET VLAN Management (Ads-Paid-Search)
+AdPat
+ADRRC VLAN Management
+ADRRC VLAN Management (Ads-Paid-Search)
+ADS VLAN Management
+Ads-Audience
+Ads-Display
+Ads-In-Game
+Ads-Mobile
+Ads-Paid-Search
+Ads-Performance
+Ads-Shared
+ADVAN VLAN Management
+ADVAN VLAN Management (Ads-Shared)
+Advantage
+Advertising Platforms Consolidated
+Advertising Traffic Quality
+AIS-AdLabWeb
+AIS-BT4CA
+AIS-BTAdInt
+AIS-BTAlgoID
+AIS-BTAudExp
+AIS-BTBYOT
+AIS-BTContAdsPlat
+AIS-BTContAdVid
+AIS-BTCosmos
+AIS-BTLUX
+AIS-BTMDS
+AIS-BTOLP
+AIS-BTSeMS
+AIS-CI
+AIS-CIQ
+AIS-Core
+AIS-DataMgmt
+AIS-Infra
+AIS-NonProd
+AISPD VLAN Management
+AISPD VLAN Management (Ads-Audience)
+AIS-Privacy
+AIS-Prod
+Ajax CDN
+Alerts
+Alerts TEST
+Amalga DC RHIO
+Amalga HCN
+Amalga Hosting
+AMOPS
+AMP Labs Platform
+Analog
+APGC CSS
+App Store Infra
+Application Experience Online Services
+APS TV-Video Advertising
+Aquaman Platform
+Aquaman TEST
+AQUAN VLAN Management
+AQUAN VLAN Management (Ads-Audience)
+aQuantive
+Arcadia
+Arcadia R&D
+ARS
+ASG - Engineering Fundamentals
+Asynchronous Queue Service TEST
+Audience Intelligence - Data Collection
+Audience Intelligence - Data Collection VLAN Management
+Auric
+AUT VLAN Management
+Automated Content Scanning
+Azure Business Consolidated
+Azure CDN Network Bandwidth
+Azure China Compute
+Azure China Dedicated Network
+Azure China Storage
+Azure CloudNet
+Azure Compute APAC
+Azure Compute EMEA
+Azure Compute LATAM
+Azure Compute US
+Azure DELL Container
+Azure DNS Global Services (COGS)
+Azure DNS Global Services (R&D)
+Azure ECN
+Azure ECN Dedicated Network
+Azure ECN R&D
+Azure Edge Managed
+Azure Engineering Systems
+Azure Federal Compute
+Azure Federal Storage
+Azure GPU
+Azure HP Container
+Azure HPC
+Azure ICA COGS
+Azure Ireland EDC
+Azure Labs R&D
+Azure MapReduce Service
+Azure Network
+Azure Onboarding
+Azure Security ILDC
+Azure Storage APAC
+Azure Storage EMEA
+Azure Storage LATAM
+Azure Storage US
+Azure Test Labs
+Azure-AM2-Compute-Rack
+Azure-AM2-Lab
+Azure-AM2-Storage-Rack
+Azure-AMS-Compute-Rack
+Azure-AMS-Storage-Rack
+Azure-BLDG18-Lab
+Azure-BLU-Compute-Rack
+Azure-CH1-Compute-Rack
+Azure-CH1-Lab
+Azure-CH1-Storage-Rack
+Azure-China1-Compute-Rack
+Azure-China1-Storage-Rack
+Azure-China2-Compute-Rack
+Azure-China2-Storage-Rack
+Azure-CO1-Lab
+Azure-DB3-Lab
+Azure-HKN-Compute-Rack
+Azure-HKN-Storage-Rack
+Azure-ICA-Dell
+Azure-ICA-Fujitsu
+Azure-ICA-Hewlett-Packard
+Azure-ICA-R&D
+Azure-NEWDC-Compute-Rack
+Azure-NEWDC-Storage-RAck
+Azure-PLA-Compute-Rack
+Azure-PLA-SQLAzure
+Azure-PLA-Storage-Rack
+Azure-SLC-Compute-Rack
+Azure-SLC-SQLAzure
+Azure-SLC-Storage-Rack
+Azure-SN1-Lab
+Azure-SN1-Storage-Rack
+Azure-SN2-Compute-Rack
+Azure-TAT-Compute-Rack
+Azure-TAT-SQLAzure
+Azure-TAT-Storage-Rack
+Ballot Screen Website Hosting
+Bandwidth Excess Inter-DC APAC
+Bandwidth Excess Inter-DC EMEA
+Bandwidth Excess Inter-DC US
+Bandwidth Excess Internet APAC
+Bandwidth Excess Internet EMEA
+Bandwidth Excess Internet US
+bCentral
+BCKUP VLAN Management
+Betanews
+BGIT
+BI Reporting
+Bing Loyalty and Rewards
+Bing Mobile and Places
+Bing Mobile and Places TST
+Bizopss
+BizTalk
+Blue
+BNW VLAN Management
+BOSG - App Support
+BOSG - BPOS
+BOSG - Capacity
+BOSG - CXP Reporting
+BOSG - Deployment Solutions Group
+BOSG - Federal Capacity
+BOSG - Federal Deployment Solutions Group
+BOSG - Federal Identity & Provisioning
+BOSG - Federal Messaging
+BOSG - Federal OCS
+BOSG - Federal Security Ops
+BOSG - Federal Server Ops
+BOSG - Federal SharePoint
+BOSG - Identity & Provisioning
+BOSG - Messaging
+BOSG - Network Infrastructure
+BOSG - OCS
+BOSG - OSA
+BOSG - Server Ops
+BOSG - Service Delivery Infrastructure (SDI)
+BOSG - Shared
+BOSG - SharePoint
+BOSG - SPO-S
+BOSG - SPO-S PPE
+BOSG - W14 Infra
+BOSG DAIP CPEG
+BPCS Shared Platform
+Business Online Services Group Consolidated
+Business Unit IT
+Calendar
+Calendar-OLC
+Caradigm
+Casual Games
+CAT
+Catalysis IW Customer Data Switchboard
+CATMAP
+CDS VLAN Management
+Certificate Revocation
+CFS FSO Finance BI
+Channel Nine
+CIAO
+CldED VLAN Management
+click2run
+Cloud & Infrastructure
+Cloud & Infrastructure COGS
+Cloud & Infrastructure R&D
+Cloud Backup Infrastructure
+Cloud Engineering and Delivery
+Cloud Engineering and Delivery VLAN Management
+Cloud Printing
+CloudCRM
+CloudCRM VLAN Management
+CLS VLAN Management
+Clubhouse
+CML VLAN Management
+COI-LMI
+Commerce & Analytics (C&A)
+Commerce Transaction Platform
+Consumer Analytics
+Core Platform Services
+Corp - MSIT-DC Cost Credits
+Corp - Research and Develpment-DC Cost Credits
+Corp - SMSG-DC Cost Credits
+Corp Other Intl (Regional IT)
+Corp Other US (EIS)
+Cosmos
+CRIP
+Critical Environment - MOPR
+CSS Security - Code Center Premium
+CSSAutoCode
+CSS-GSA
+CSS-GSA-Influencer
+CSS-GSA-OnlineSupport
+CSS-GSA-Platforms
+CSS-GSA-Premier
+CSSI VLAN Management
+CST
+CTS
+Customer Feedback Management
+DAIP Services
+Danger
+Data Acquisition
+Data and Analytics
+Data Center Excess - Other
+Data Center Excess Colo - APAC
+Data Center Excess Colo - EMEA
+Data Center Excess Colo - US
+Data Center Excess Container - US
+Data Center Services
+Data Sync Services
+Database Manager
+DataEngSrv
+DataEngSrv-DNA
+DATALLEGRO
+Dedicated Identity & Provisioning
+Dedicated Messaging
+Deployment Services
+Deployment Services VLAN Management
+Dev.Live.Com
+Developer Connection and Ecosystem - DCE
+Developer Portal
+Developer Portal TEST
+Device Cert System
+DevLiveAnalytics TEST
+DevPortal
+DevSell-EngMonetize-EMT
+DevSell-Ingestion-ICH
+Display Ads Platform
+DMG Project Montego
+DMG StreamInsight
+DOCSAPPLICATION
+DOCSBETAAPPLICATION
+DVPOR VLAN Management
+Dynamics CRM Online - CRM Workload GSGO
+Dynamics CRM Online - MDM Workload
+Dynamics Small Business Online
+Education Strategy Products and Solutions
+EE-RAMP
+EFP VLAN Management
+EHA - SQLAzure
+EHS Archive
+EHS Archive (Legacy)
+Encarta.com Dictionary - Education Strategy
+EnergyStrategy
+Engagement Platform
+Engagement Platform VLAN Management
+ENT VLAN Management
+ENTACT
+Enterprise Systems & Business Process
+Enterprise Tools
+Enterprise Tools VLAN Management
+Entertainment & Devices Consolidated
+ENTERTAINMENT and DEVICES
+Entertainment and Devices - IEB-DC Cost Credits
+Entertainment and Devices - WP-DC Cost Credits
+Environmental Sustainability Group
+EPG - EE Microsoft Technology Center
+ESD Hook
+esdhk VLAN Management
+EServices
+Exchange
+Exchange - ANSID
+Exchange ITAR - ANSID
+Experiences (EXP)
+Expo Live
+FAST Hosting
+Financial Infrastructure System
+FOPE
+FOXTROT
+Foxtrot TEST
+Games for Windows Live (WGX)
+GamesIT
+Gears of War 3 (GOW3)
+GFS Consolidated
+GFS Data Management
+GFS DNS Global Services
+GFS Finance - Skylab
+GFS Server Escrow
+GFS Server Escrow VLAN Management
+GFS-MSG
+Govt - Exchange
+Govt - SharePoint
+Groove
+Groups
+Groups TEST
+GSAA
+Hardware Standards
+Health Strategy
+HEOT VLAN Management
+Home and Small Business Server Domains
+Hosting
+Hotmail
+Hotmail Ops (Labs)
+HS-MedStory
+IE - Compatibility
+IEB MLS Hosted Property
+IEB Paris
+IEB Security Ops
+Incident Management Excess - Non Standard
+Incident Management Excess - Standard
+Inetpub
+Information Platform & Experience (IPE)
+Information Platform & Experiences (IPE) TST
+Information Platform Group (IPG)
+Input Method Editor
+Interactive and Digital Marketing
+Internet Explorer 7 Run Once
+IPE Speech Ops
+IRM
+ISE - RUS
+ISE Moser
+ISE OneCare Web
+ISS Infrastructure (INF)
+ITLS TnT - Agile Labs
+ITN VLAN Management
+Japan Ads Statics
+Japan Contextual Search Shared
+Japan Cookie Gateway
+Japan Fast Forward
+Japan Mobile Services
+Japan Mobile SMTP Gateway
+Japan WL Statics
+KIN Games Marketplace
+KMS
+LCA
+LET Multiplayer
+LEX iPhone
+Live Gallery
+Live Labs
+Live Search
+Live Service Group
+LiveatEDU
+LiveID
+LMI Looking Glass
+Local Ads Gateway
+Local Search
+LSE Infra
+LSE Labs
+Lync Online EDOG
+Lync Online Perf
+Machine Translation
+MacOffice Content Server
+Marketplace
+Marketplace Production - MSCOM
+Marketplace Recommendations
+MASE TEST
+Massive
+MBD Dedicated Networking
+MBD kW Charge Back PG
+MBD Services Operations
+MBR VLAN Management
+MBS Online - CRMLive
+MBS Online - CRMLive GSGO
+MBS Online - Dynamics Live Marketing
+MBS Online - Equifax
+MBS Online - List builder
+MBS Online - Marketing
+MBS Online - Netbreeze
+MBS Online - SBOS
+MBS Online - SBP
+MCO VLAN Management
+MDAS Trade Marketing
+Mediaroom
+Media-Services
+Medici
+Member Experience
+Merck-ALS
+Mesh and Developer Platform (MDP)
+Messenger
+Messenger TEST
+MicroFramework
+Microsoft Agora
+Microsoft Business Solutions Consolidated
+Microsoft Developers Network (MSDN)
+Microsoft Digital Advertising Solutions
+Microsoft Hohm
+Microsoft IT Consolidated
+Microsoft Research Labs
+Microsoft Retail Stores
+Microsoft Studios Digital Media Services (DMS)
+Microsoft Tag
+Microsoft.com
+Microsoft.com MOPR
+MLP
+MOBB3 VLAN Management
+Mobile
+Mobile Ads Platform
+Mobile Analytics
+Mobile Commerce Platform
+Mobile Lex
+Mobile LEX M2 Dogfood
+Mobile Operator Portal
+Mobile Passport
+Mobile Search
+Mobile VLAN Management
+MOD Application Support
+Monitoring and Management
+Monitoring/Tooling
+MOPR - AX ERP
+MPG Member Platform Group
+MPSD Client Mgmt
+MRS
+MS Communities
+MS Connect
+MS Ops Business Intelligence
+MS Research Video
+MS Store
+MS Store - RF
+MS Store - RT
+MS Store Preproduction
+MS Studio External Site
+MSC
+msd VLAN Management
+MSDN Academic Alliance
+MSDN Subscriptions & CodePlex
+MSG
+MSG-GFS Data Management
+MSIT - P10283
+MSIT - P10493
+MSIT - P10749
+MSIT - P12161
+MSIT - P12517
+MSIT - P12526
+MSIT - P12741
+MSIT - P14007
+MSIT - P15204
+MSIT - P17456
+MSIT - P17529
+MSIT - P17927
+MSIT - P17979
+MSIT - P18041
+MSIT - P18244
+MSIT - P29833
+MSIT - P44317
+MSIT - P44498
+MSIT - P44955
+MSIT - P55679
+MSIT - P55965
+MSIT - P61132
+MSIT - P61205
+MSIT - P63057
+MSIT - P63160
+MSIT - P65766
+MSIT - P66188
+MSIT - P69397
+MSIT - P72302
+MSIT - P73092
+MSIT - P73094
+MSIT - P73766
+MSIT - P83864
+MSIT - P86873
+MSIT - P88498
+MSIT - P89416
+MSIT - P90216
+MSIT - P93257
+MSIT - P96943
+MSIT - P97001
+MSIT Capacity Supply
+MSIT Corp
+MSIT Labs
+MS-IT MLS Hosted Property
+MsIT Network Devices
+MSIT PHX Domain
+MSIT Research & Development
+MSIT SAN Devices
+MSIT Service Mgmt Division
+MSIT Supported Business Groups
+MSKK - Keikaku Hiroba
+MSKK - Kotaetenet
+MSMP VLAN Management
+MSN Channels-non-MPP VLAN Management
+MSN Consolidated
+MSN Contact Services (ABCH)
+MSN Contact Services (ABCH) TEST
+MSN Direct
+MSN Explorer
+MSN Global BEET Hosting
+MSN Internet Access
+MSN Media Solutions-GAP
+MSN Mobile TEST
+MSN Portals VLAN Management
+MSN Publishing Platform
+MSN Publishing Platform TST
+MSN Publishing Platform VLAN Management
+MSN Social and Community Platform VLAN Management
+MSN Storage
+MSN Storage TEST
+MSN Technologies (China)
+MSN Voice
+MSNBC
+MSND
+MSN-Flextag
+MSNJP VLAN Management
+MSNTV
+MSR CSIP
+MSR ESL Assistant
+MSR MLS Hosted Property
+mSRCH VLAN Management
+MSRLiveOps
+MultiMap
+My Mobile Media
+NACS VLAN Management
+NCSI VLAN Management
+Networking
+Networking Excess - Platform
+Networking Excess - Shared
+NineMSN
+NONB3 VLAN Management
+Non-Specific Consolidated
+OABG Business & Customer Intelligence - Data Sciences
+OAFS
+OCP - BDM
+OCP - BI
+OCP - Marketplace (PP)
+OCP - Online Commerce Platform
+OCP - PPE
+OCS Office Engineering
+OCS Office Engineering Labs
+OCS Office Shared Experiences
+ODC on SharePoint
+Office
+Office 365 Suite Service Engineering
+Office C2R
+Office DSI
+Office Education
+Office IPO labs
+Office Live
+Office Live PW
+Office Live SB
+Office Live SX
+Office MLS Hosted Property
+Office Online PROD
+Office POSA
+Office Pro Downloads
+Office Shared Operations Labs
+Office Shared Operations Tools
+Office Subscription
+Office WAC
+OFFPW VLAN Management
+OneDrive
+OneDrive AQS TEST
+OneDrive Search TEST
+OneDrive TEST
+ONLINE AUDIENCE BUSINESS
+Online Services Internal Communications
+Optimus
+ORTHOS
+OSD Data & Analytics
+OSD MLS Hosted Property
+OSD-DC Cost Credits
+OSDP Dedicated Networking
+OSSG VLAN Management
+Outlook
+Outlook Ops (Labs)
+Outlook R&D
+Partnerspaces
+Passport
+Passport TEST
+Password2Go
+Personal Devices Tools Group
+PFD Devices
+PFD Family
+PINK VLAN Management
+Platform Services (IXP)
+PMG Intel
+Portable Navigation Device
+POW VLAN Management
+PowerBI Deployment
+Powerline
+Premium Mobile eXperience (PMX)
+Premium Mobile Experience Digital Group
+Premium Mobile Experience Placeholder
+Premium Mobile Experiences
+Proclarity
+Product Authority Blu2
+Product Information Catalog
+Project Niagara
+Project Vancouver
+PRSS Services
+PSI VLAN Management
+PSO BOX PPE
+PSO BOX Prod
+PSO DC Team
+PSO Information Protection and Control (IPC)
+PSO KMS
+PSO MSODS PPE
+PSO MSODS PROD
+PSO OCP - BDM
+PSO OCP - BI
+PSO OCP - Marketplace (PP)
+PSO OCP PPE
+PSO OCP PROD
+PSO Phone Factor
+PSO Reputation Services
+PSO RMS
+PTLS VLAN Management
+PTS VLAN Management
+Qianmen
+Ratings and Reviews
+Redsea
+Reference Source Code
+Release and Provisioning
+Release Services - MOPR
+Research and Response
+Retail Stores - Asia
+Robotics
+Run Ops (Labs)
+Safety & Technology TEST
+Safety & Technology VLAN Management
+Safety Platform
+Safety Platform Membership Intelligence
+Safety Platform Membership Intelligence NonProd
+Safety Platform NonProd
+SAM
+Sandbox
+Sandbox - Partner Manageability Platform
+SBA-Smartnotes
+SBG Siena
+SBG VLAN Management
+SCONN VLAN Management
+SCP Infrastructure TEST
+SCP VLAN Management
+SDO - Enterprise Portal Platform
+SDO - MCOE
+SDO - XIT
+Search
+Search Client
+Search Consumer Marketing Analytics
+Search Marketing
+Search Perks
+Security
+Security Compliance Manager
+Server & Tools Consolidated
+Server and Tools MLS Hosted Property
+Server and Tools-DC Cost Credits
+Service Health Portal
+Service Operations Solutions Group (SOSG)
+Service Optimization Solutions
+Shared Resource System (SRS) Test
+SharePoint.Microsoft.com
+Shopping
+Shopping VLAN Management
+Signup and Account Management eXperience
+Silverlight Events
+Silverlight Marketing Demos
+SKY VLAN Management
+SkyBox
+SkyDrive
+SkyDrive AQS TEST
+SkyDrive Search TEST
+SkyDrive Storage
+SkyDrive Storage TEST
+SkyDrive TEST
+SKYE VLAN Management
+SkyEmailConfig
+Skyline
+SkyMarket
+Skype
+Skype Platform
+Skype Plus
+SLS
+SMS Messenger
+SMSG MLS Hosted Property
+SMSP Process Library
+Social Update Platform
+Social Update Platform TEST
+SOPS VLAN Management
+SP Abuse
+SP Anti-Abuse
+SP Data and Research
+SP Family Safety Service
+SP Intelligence Services
+SP MSA
+SP Reputation
+SP SPAM
+SP Store
+SP Support Systems
+Spartan
+SpeechAtMicrosoft
+SQL Azure Import-Export
+SQL Azure-Analytics
+SQL Azure-Reporting Services
+SQLAzure ICA - Dell
+SQLAzure ICA - Ebay
+SQLAzure ICA - Fujitsu
+SQLAzure ICA - HP
+SQLAzure-Database
+SQLAzure-Federal
+SQLAzure-Prod-Federal
+SQLAzure-Prod-SAWA
+SQLAzure-Production
+SQLAzure-R&D
+SQLAzure-R&D-SAWA
+SRS VLAN Management
+SSO Infrastructure
+SSO VLAN Management
+Startup Business Group (SBG)
+Startup Business Group (SBG) VLAN Management
+STC Local Innovation
+Storage Optimizer TEST
+Storage Search TEST
+StoreCore-DSP-BET
+StoreCore-DSP-TWS
+StoreCore-DSP-WinUpdate
+StoreCore-Eng
+StoreCore-NiCaD
+StoreFronts-Client
+StoreFronts-STE
+StoreFronts-Web
+STP Service Health
+Stratature
+STS VLAN Management
+Studios Online Services (SOS)
+Studios Services and Operations (SOS)
+Studios Services and Operations (SSO)
+Subscription Services Ops
+Support Desk
+Sustained Engineering
+SWA - COGS
+SWA - Research and Development
+Syd-Smooth
+Syndication Central Services
+Synthesys
+Sysinternals
+System Center Atlanta
+System Center Mgmt Services
+System Center Operations Manager
+System Center Outbound Marketing Gadget
+T0 Tools
+TC Workbench Compute Services
+TechEd Online
+Technical Computing Community
+Technical Strategy Group
+TechOps
+Tell Me Billing and Reporting
+Telligent Community Server
+Tellme-Cosmos
+Teredo
+Terraserver
+Test Automation Services
+TFS on Azure
+Tier1 and Support Services
+TIME VLAN Management
+Transmedia Foundation
+Trusted Cloud Services
+TWC - CA - Code Center Premium
+TWC Security - NetSec
+TWS - Delivery
+TWS - Services
+UCG - LiveMeeting
+UCG - Lync Online
+UCG - Lync Online (Wave14)
+UCG - Lync Online (Wave15)
+UCG - Lync Online Network
+UCG - OCOnline
+UCG - SharedView
+UCG - VOX Project
+Unknown
+UPS
+US BMO Digital Events
+Video Mail
+Video VLAN Management
+Virtual Events
+Virtual TechDays
+Vista NCSI
+Visual Studio Cloud Services (APEX)
+Visual Studio Cloud Services (MSDN)
+Visual Studio Cloud Services (QBuild)
+Visual Studio Cloud Services (VSO)
+VLAN MSN Management
+voi VLAN Management
+Voice & Video Services
+VXCL VLAN Management
+WA DataMarket
+WebMessenger
+Webstore (Labs)
+Webstore TEST
+Windows - Gallery
+Windows - OCA
+Windows - Responses
+Windows - SQM
+Windows - Telemetry
+Windows - Watson
+Windows Anytime Upgrade
+Windows Azure AppFabric
+Windows Azure Platform Enterprise Portal
+Windows Azure project Sydney
+Windows Business Consolidated
+Windows Embedded Developer Update (WEDU)
+Windows Engineering Services Portal (WES Portal)
+Windows InTune
+Windows Live Agents
+Windows Live Consolidated
+Windows Live Consumer Site
+Windows Live Core
+Windows Live Core TEST
+Windows Live Cumulus
+Windows Live Customer Experience
+Windows Live Customer Experience Team (WLCET)
+Windows Live Experimentation Platform
+Windows Live for Java Client Operations
+Windows Live for TV
+Windows Live INT (WLX)
+Windows Live Platform Services - Incubation
+Windows Live Safety Platform - Family Safety TEST
+Windows Live Service Excellence
+Windows Live Shared Data Experience
+Windows Live Social Networking
+Windows Live Social Networking TEST
+Windows Live Solution Center
+Windows Live-Cosmos
+Windows Marketplace International
+Windows MLS Hosted Property
+Windows Mobile Access Service
+Windows Notification Service
+Windows Online
+Windows Phone Services
+Windows Phone Services 6x MCP
+Windows Phone Services 6x Skymarket
+Windows Phone Services CCS
+Windows Phone Services CPX
+Windows Phone Services CS
+Windows Phone Services LBS
+Windows Phone Services MOXy
+Windows Phone Services MPN
+Windows Phone Services PCS
+Windows Phone Services SkyBox VLAN Management
+Windows Server Solutions Group
+Windows Update Services
+Windows-DC Cost Credits
+WL Planet
+WL Support Systems
+WL VM Cloud TST
+WLAGT VLAN Management
+WLEP Test
+WLID Organizational
+WLID R&D
+WLID RnD Organizational
+WLL India
+WLMessenger SEA
+WLSP Anti-Abuse
+WLSP Content Filtering
+WLSP Data & Research
+WLSP Family Safety
+WLSP Reputation
+WLSP SPAM
+WLX - UXP
+WLX Customer Experience and Platform (CXP)
+WLX Data Intelligence
+WLX FrameIT
+WM6.x MyPhone
+WMIS - ehome
+WMIS - Silverlight DRM
+WMIS - Wex
+WMIS - WMDRM
+WMPI Preproduction
+WNGAL VLAN Management
+Worldwide Telescope
+WP Service Center
+WP.com
+WP.Live.com
+WPS Commerce Services
+WSLabs
+WSTOR VLAN Management
+WWIT Network Infrastructure US 10G Circuits
+Xbox ATG
+XBOX Crash Analysis
+Xbox Live BI (RPT)
+Xbox Live Entertainment Services (XBL)
+XBOX Marketing
+XBOX Music Service Delivery
+Xbox Primetime (XLP)
+Xbox Speech
+XBox.com
+XboxEmea
+XIT VLAN Management
+XNA Creators Club (XNA)
+Yahoo-Search
+Yammer
+Zune
+Zune Paris
+Zune Video
+Bing Experiences
+Membership-FSX
+Membership-MEE
+StoreCore-DSP-TrafficShaping

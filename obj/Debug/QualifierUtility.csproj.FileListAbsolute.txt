@@ -1,0 +1,10 @@
+c:\users\junweihu\documents\visual studio 2013\Projects\QualifierUtility\QualifierUtility\bin\Debug\QualifierUtility.exe.config
+c:\users\junweihu\documents\visual studio 2013\Projects\QualifierUtility\QualifierUtility\bin\Debug\QualifierUtility.exe
+c:\users\junweihu\documents\visual studio 2013\Projects\QualifierUtility\QualifierUtility\bin\Debug\QualifierUtility.pdb
+c:\users\junweihu\documents\visual studio 2013\Projects\QualifierUtility\QualifierUtility\obj\Debug\QualifierUtility.csprojResolveAssemblyReference.cache
+c:\users\junweihu\documents\visual studio 2013\Projects\QualifierUtility\QualifierUtility\obj\Debug\QualifierUtility.exe
+c:\users\junweihu\documents\visual studio 2013\Projects\QualifierUtility\QualifierUtility\obj\Debug\QualifierUtility.pdb
+c:\users\junweihu\documents\visual studio 2013\Projects\QualifierUtility\QualifierUtility\bin\Debug\Newtonsoft.Json.dll
+c:\users\junweihu\documents\visual studio 2013\Projects\QualifierUtility\QualifierUtility\bin\Debug\Newtonsoft.Json.xml
+C:\Users\junweihu\documents\visual studio 2013\Projects\QualifierUtility\QualifierUtility\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\junweihu\documents\visual studio 2013\Projects\QualifierUtility\QualifierUtility\bin\Debug\System.Net.Http.Formatting.xml
