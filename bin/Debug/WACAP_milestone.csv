@@ -1,0 +1,22 @@
+name,code,description
+"Receive, Bolt Down & Energize",1000,"Receive, Bolt Down & Energize"
+OEM Validation/BSL,2000,OEM Validation/BSL
+Discover Network Wait Time,3000,Discover Network Wait Time
+Cabling,4000,Cabling
+Discover NW & Repair,5000,Discover NW & Repair
+Discover Serial & Repair,6000,Discover Serial & Repair
+Configure NW,7000,Configure NW
+Network Acceptance,8000,Network Acceptance
+Reboot,9000,Reboot
+Wirecheck & WABOotstrap,10000,Wirecheck & WABOotstrap
+Inventory Addition,11000,Inventory Addition
+Platform Deployment,12000,Platform Deployment
+RTW,13000,RTW
+Dock to RTEG Contingency,14000,Dock to RTEG Contingency
+RTEG to RTW Contingency,15000,RTEG to RTW Contingency
+Operational Acceptance,16000,Operational Acceptance
+First Pass DN,4100,First Pass DN
+Validate Serial,4600,Validate Serial
+Prepare NW,4700,Prepare NW
+Ops Acceptance,7100,Ops Acceptance
+RTW to Live,17000,RTW to Live

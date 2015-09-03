@@ -1,0 +1,34 @@
+Code,Name
+Compute,Compute
+Storage,Storage
+SQL Azure,SQL Azure
+HPC,HPC
+Fairfax (Compute),Fairfax (Compute)
+Fairfax (Storage),Fairfax (Storage)
+Fairfax (SQL Azure),Fairfax (SQL Azure)
+GPU,GPU
+Xarchive,Xarchive
+Xtransport,Xtransport
+SQL Azure (DocDB),SQL Azure (DocDB)
+XIO Storage,XIO Storage
+XIO Compute,XIO Compute
+Restricted,Restricted
+Godzilla,Godzilla
+Discrete,Discrete
+PRD,PRD
+PilotFish,PilotFish
+Network,Network
+VLAN,VLAN
+ComputeStateful,ComputeStateful
+Account Forest,Account Forest
+Backend,Backend
+Dedicated,Dedicated
+Front End,Front End
+Resource Forest,Resource Forest
+Management,Management
+Fairfax (ComputeStateful),Fairfax (ComputeStateful)
+SQL Azure (DocDB) Basic,SQL Azure (DocDB) Basic
+MSODS,MSODS
+DNS,DNS
+Mooncake,Mooncake
+TPS,TPS

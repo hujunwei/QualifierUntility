@@ -8,3 +8,11 @@ c:\users\junweihu\documents\visual studio 2013\Projects\QualifierUtility\Qualifi
 c:\users\junweihu\documents\visual studio 2013\Projects\QualifierUtility\QualifierUtility\bin\Debug\Newtonsoft.Json.xml
 C:\Users\junweihu\documents\visual studio 2013\Projects\QualifierUtility\QualifierUtility\bin\Debug\System.Net.Http.Formatting.dll
 C:\Users\junweihu\documents\visual studio 2013\Projects\QualifierUtility\QualifierUtility\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\junweihu\Desktop\QualifierUntility-master\bin\Debug\QualifierUtility.exe.config
+C:\Users\junweihu\Desktop\QualifierUntility-master\obj\Debug\QualifierUtility.exe
+C:\Users\junweihu\Desktop\QualifierUntility-master\obj\Debug\QualifierUtility.pdb
+C:\Users\junweihu\Desktop\QualifierUntility-master\bin\Debug\QualifierUtility.exe
+C:\Users\junweihu\Desktop\QualifierUntility-master\bin\Debug\QualifierUtility.pdb
+C:\Users\junweihu\Desktop\QualifierUntility-master\bin\Debug\Newtonsoft.Json.xml
+C:\Users\junweihu\Desktop\QualifierUntility-master\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\junweihu\Desktop\QualifierUntility-master\obj\Debug\QualifierUtility.csprojResolveAssemblyReference.cache

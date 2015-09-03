@@ -5,6 +5,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading;
 using System.Threading.Tasks;
 using DataModel.Model;
@@ -73,8 +74,7 @@ namespace QualifierUtility
             }
             catch (Exception ex)
             {
-                Console.WriteLine("\nRead File Error: {0}", ex.Message);
-                Console.ReadLine();
+                throw new Exception("\nRead File Error: " + ex.Message);
             }
 
             return ValidateJson(jsonStr) ? jsonStr : "";
@@ -82,6 +82,12 @@ namespace QualifierUtility
         }
 
 
+        /// <summary>
+        /// Reads the CSV file to string list by zuber.
+        /// </summary>
+        /// <param name="path">The path.</param>
+        /// <returns></returns>
+        /// <exception cref="Exception">File data invalid: file data may have comma</exception>
         public static List<string> ReadCsvFileToStringList_zuber(string path)
         {
             var valueList = new List<string>();
@@ -105,12 +111,21 @@ namespace QualifierUtility
                             var line = csvReader.ReadLine();
                             var sb = new StringBuilder();
                             if (line == null) continue;
-                            var valueListForOneLine = line.Split(',');
+                            var valueListForOneLine = SplitCSV(line).ToList();
                             if (!valueListForOneLine.Any()) continue;
-
+                            if(valueListForOneLine.Count() != numAttributes)
+                                throw new Exception("File data invalid: file data may have comma");
                             if (hasOnlyOneColumn)
                             {
-                                valueList.Add(line);
+                                if (line.Contains('\"'))
+                                {
+                                    var lineTrimedQuotation = line.Replace("\"", "");
+                                    valueList.Add(lineTrimedQuotation);
+                                }
+                                else
+                                {
+                                    valueList.Add(line);
+                                }
                                 continue;
                             }
 
@@ -152,7 +167,7 @@ namespace QualifierUtility
         /// <param name="qualifierValList">The Qualifier in json.</param>
         /// <param name="apiUrl">The API URL.</param>
         /// <returns></returns>
-        public static HttpWebResponse AddQualifier(string name, string url, List<string> qualifierValList, string apiUrl = "http://planningconfigtest.cloudapp.net/api/qualifier/add")
+        public static HttpWebResponse AddQualifier(string name, string url, List<string> qualifierValList, string apiUrl = "https://planningconfigtest.cloudapp.net/api/qualifier/add")
         {
             HttpWebResponse response = null;
             try
@@ -230,6 +245,50 @@ namespace QualifierUtility
             }
         }
 
+
+
+        /// <summary>
+        /// Splits the CSV.
+        /// </summary>
+        /// <param name="csvString">The CSV string.</param>
+        /// <returns></returns>
+        /// <exception cref="ArgumentException">csvString;Unterminated quotation mark.</exception>
+        private static IEnumerable<string> SplitCSV(string csvString)
+        {
+            var sb = new StringBuilder();
+            var quoted = false;
+            foreach (var c in csvString)
+            {
+                if (quoted)
+                {
+                    if (c == '"')
+                        quoted = false;
+                    else
+                        sb.Append(c);
+                }
+                else
+                {
+                    switch (c)
+                    {
+                        case '"':
+                            quoted = true;
+                            break;
+                        case ',':
+                            yield return sb.ToString();
+                            sb.Length = 0;
+                            break;
+                        default:
+                            sb.Append(c);
+                            break;
+                    }
+                }
+            }
+
+            if (quoted)
+                throw new ArgumentException("csvString", "Unterminated quotation mark.");
+
+            yield return sb.ToString();
+        }
 
     }
 }

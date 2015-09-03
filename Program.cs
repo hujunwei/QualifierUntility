@@ -30,41 +30,41 @@ namespace QualifierUtility
                 }
             }
             else
-            {
                 throw new Exception("Filename is invalid");
-            }
+
             var valueListForQualifier = QualifierUntilityHelper.ReadCsvFileToStringList_zuber(csvFilePath);
+
+
             Console.WriteLine("Please input qualifer name:");
-            string qualifierName = Console.ReadLine();
+            var qualifierName = Console.ReadLine();
             if (string.IsNullOrEmpty(qualifierName))
             {
-                throw new Exception("qualifierName could not be empty"); 
+                throw new Exception("qualifierName could not be empty");
             }
 
             Console.WriteLine("Please input qualifer url:");
             string qualifierUrl = Console.ReadLine();
-            Regex qualifierUrlRegex = new Regex(@"/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/");
+            //Regex qualifierUrlRegex = new Regex(@"/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/");
 
-            if (!string.IsNullOrEmpty(qualifierUrl))
-            {
-                if (!Uri.IsWellFormedUriString(qualifierUrl, UriKind.RelativeOrAbsolute))
-                {
-                    throw new Exception("Qualifier Url is invalid");
-                }
+            //if (!string.IsNullOrEmpty(qualifierUrl))
+            //{
+            //    if (!Uri.IsWellFormedUriString(qualifierUrl, UriKind.RelativeOrAbsolute))
+            //    {
+            //        throw new Exception("Qualifier Url is invalid");
+            //    }
 
-            }
-            else
-            {
-                throw new Exception("Qualifier Url is invalid");
-            }
-
+            //}
+            //else
+            //{
+            //    throw new Exception("Qualifier Url is invalid");
+            //}
+            Console.WriteLine("Count for Qualifierlist is" + valueListForQualifier.Count);
             Console.WriteLine("Sending Request...");
 
-            HttpWebResponse response = QualifierUntilityHelper.AddQualifier(qualifierName, qualifierUrl, valueListForQualifier, "http://localhost:55658/api/qualifier/add");
+            HttpWebResponse response = QualifierUntilityHelper.AddQualifier(qualifierName, qualifierUrl, valueListForQualifier);
 
             Console.WriteLine("ResponseHttpStatusCode: " + response.StatusCode);
             Console.ReadKey();
-
         }
     }
 }
